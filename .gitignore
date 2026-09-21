@@ -1,0 +1,11 @@
+# build output
+dist/
+
+# python
+__pycache__/
+*.pyc
+
+# local test leftovers (the Bandizip installation is never part of the repo)
+Bandizip.exe
+*.log
+*.i64
